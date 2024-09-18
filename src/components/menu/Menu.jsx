@@ -9,7 +9,7 @@ export default function Menu() {
     return <>
         <div className="h-full min-h-screen w-screen bg-[#f5f1e8] border-b-[12px] border-[#eec748] border-solid ">
             {/* header */}
-            <div className='w-fit relative m-auto text-4xl uppercase tracking-widest before:block before:absolute before:h-[2px] before:w-12 before:bg-[#dac164] before:end-full before:top-1/2 after:block after:absolute after:h-[2px] after:w-12 after:bg-[#dac164] after:start-full after:top-1/2 '>
+            <div className='w-fit relative m-auto text-xl md:text-4xl uppercase tracking-widest before:block before:absolute before:h-[2px] before:w-12 before:bg-[#dac164] before:end-full before:top-1/2 after:block after:absolute after:h-[2px] after:w-12 after:bg-[#dac164] after:start-full after:top-1/2 '>
                 <h1 className='py-8 px-8 text-[#dac164] '>fast react pizza</h1>
             </div>
 
@@ -26,7 +26,7 @@ export default function Menu() {
 
             {/* menu items */}
             <div className='w-full md:w-1/2 flex flex-wrap m-auto '>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5">
                     <div className='w-1/3 '>
                         <img src={img1} alt="" />
                     </div>
@@ -40,7 +40,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5">
                     <div className='w-1/3 '>
                         <img src={img2} alt="" />
                     </div>
@@ -54,7 +54,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5">
                     <div className='w-1/3 '>
                         <img src={img3} alt="" />
                     </div>
@@ -68,7 +68,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5">
                     <div className='w-1/3 '>
                         <img src={img4} alt="" />
                     </div>
@@ -82,7 +82,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5 filter grayscale">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5 filter grayscale">
                     <div className='w-1/3 '>
                         <img src={img5} alt="" />
                     </div>
@@ -96,7 +96,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5first-line:">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5first-line:">
                     <div className='w-1/3 '>
                         <img src={img6} alt="" />
                     </div>
