@@ -82,7 +82,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5">
+                <div className="w-1/2 pe-3 flex gap-x-4 mb-5 filter grayscale">
                     <div className='w-1/3 '>
                         <img src={img5} alt="" />
                     </div>
@@ -92,11 +92,11 @@ export default function Menu() {
                             <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
-                            5
+                            Sold out
                         </div>
                     </div>
                 </div>
-                <div className="w-1/2 pe-3 flex gap-x-4 mb-5">
+                <div className="w-1/2 pe-3 flex gap-x-4 mb-5first-line:">
                     <div className='w-1/3 '>
                         <img src={img6} alt="" />
                     </div>
