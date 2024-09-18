@@ -33,7 +33,7 @@ export default function Menu() {
                     <div className='w-2/3 flex flex-col justify-between '>
                         <div>
                             <h2 className='capitalize font-mono'>peperoni pizza</h2>
-                            <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
+                            <p className='font-mono text-sm text-gray-600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
                             5
@@ -47,7 +47,7 @@ export default function Menu() {
                     <div className='w-2/3 flex flex-col justify-between '>
                         <div>
                             <h2 className='capitalize font-mono'>peperoni pizza</h2>
-                            <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
+                            <p className='font-mono text-sm text-gray-600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
                             5
@@ -61,7 +61,7 @@ export default function Menu() {
                     <div className='w-2/3 flex flex-col justify-between '>
                         <div>
                             <h2 className='capitalize font-mono'>peperoni pizza</h2>
-                            <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
+                            <p className='font-mono text-sm text-gray-600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
                             5
@@ -75,21 +75,21 @@ export default function Menu() {
                     <div className='w-2/3 flex flex-col justify-between '>
                         <div>
                             <h2 className='capitalize font-mono'>peperoni pizza</h2>
-                            <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
+                            <p className='font-mono text-sm text-gray-600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
                             5
                         </div>
                     </div>
                 </div>
-                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5 filter grayscale opacity-85 hover:cursor-not-allowed">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5 filter grayscale opacity-70 hover:cursor-not-allowed">
                     <div className='w-1/3 '>
                         <img src={img5} alt="" />
                     </div>
                     <div className='w-2/3 flex flex-col justify-between '>
                         <div>
                             <h2 className='capitalize font-mono'>peperoni pizza</h2>
-                            <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
+                            <p className='font-mono text-sm text-gray-600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
                             Sold out
@@ -103,7 +103,7 @@ export default function Menu() {
                     <div className='w-2/3 flex flex-col justify-between '>
                         <div>
                             <h2 className='capitalize font-mono'>peperoni pizza</h2>
-                            <p className='font-mono text-sm text-gray-5600'>Lorem ipsum dolor sit amet consectetur.</p>
+                            <p className='font-mono text-sm text-gray-600'>Lorem ipsum dolor sit amet consectetur.</p>
                         </div>
                         <div >
                             5
