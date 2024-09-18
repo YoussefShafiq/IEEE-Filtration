@@ -96,7 +96,7 @@ export default function Menu() {
                         </div>
                     </div>
                 </div>
-                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5first-line:">
+                <div className="w-full px-5 py-3 md:p-0 md:w-1/2 md:pe-3 flex gap-x-4 md:mb-5 ">
                     <div className='w-1/3 '>
                         <img src={img6} alt="" />
                     </div>
